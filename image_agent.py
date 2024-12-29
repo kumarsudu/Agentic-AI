@@ -13,7 +13,7 @@ agent = Agent(
 )
 
 agent.print_response(
-    "Tell me about this image and give me the latest news about it.",
-    images=["https://upload.wikimedia.org/wikipedia/commons/b/bf/Krakow_-_Kosciol_Mariacki.jpg"],
+    "Tell me about this image and give me the latest updates about it.",
+    images=["https://commons.wikimedia.org/wiki/Main_Page#/media/File:Canterbury_Cathedral_Choir_1,_Kent,_UK_-_Diliff.jpg"],
     stream=True,
 )
