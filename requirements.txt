@@ -1,0 +1,9 @@
+phidata
+openai #phidata uses `openai` as the default model provider. Please provide a `model` or install `openai`.
+python-dotenv
+yfinance
+packaging
+duckduckgo-search
+#fastapi
+#uvicorn
+groq
