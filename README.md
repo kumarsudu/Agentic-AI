@@ -1,2 +1,2 @@
-## Hands On Agent AI frameworks implementation
+## Hands On Agentic AI frameworks implementation
 ## 1. Phidata
